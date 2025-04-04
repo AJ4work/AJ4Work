@@ -5,7 +5,8 @@
 - 🌱 I’m currently messing around with .NET MAUI
 
 ## Skills and Tools
-<h3> Programming Languages & Frameworks </h3>
+### Programming Languages & Frameworks 
+
 ![Python](https://img.shields.io/badge/-black?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-black?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-black?style=flat&logo=typescript)
