@@ -18,7 +18,7 @@
 ![Express](https://img.shields.io/badge/-black?style=flat&logo=express)
 
 ## Reach Out
-![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)(https://www.linkedin.com/in/angel-jude-diones-921538328/)]
+![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)(https://www.linkedin.com/in/angel-jude-diones-921538328/)
 
 <!--
 **AJ4work/AJ4Work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
