@@ -6,18 +6,18 @@
 
 ## Skills and Tools
 <h3> Programming Languages & Frameworks </h3>
-[![Python](https://img.shields.io/badge/-black?style=flat&logo=python)]
-[![JavaScript](https://img.shields.io/badge/-black?style=flat&logo=javascript)]
-[![TypeScript](https://img.shields.io/badge/-black?style=flat&logo=typescript)]
-[![HTML](https://img.shields.io/badge/-black?style=flat&logo=html5)]
-[![NextJS](https://img.shields.io/badge/-black?style=flat&logo=next.js)]
-[![React](https://img.shields.io/badge/-black?style=flat&logo=react)]
-[![Flutter](https://img.shields.io/badge/-black?style=flat&logo=flutter)]
-[![Django](https://img.shields.io/badge/-black?style=flat&logo=django)]
-[![Express](https://img.shields.io/badge/-black?style=flat&logo=express)]
+![Python](https://img.shields.io/badge/-black?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-black?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-black?style=flat&logo=typescript)
+![HTML](https://img.shields.io/badge/-black?style=flat&logo=html5)
+![NextJS](https://img.shields.io/badge/-black?style=flat&logo=next.js)
+![React](https://img.shields.io/badge/-black?style=flat&logo=react)
+![Flutter](https://img.shields.io/badge/-black?style=flat&logo=flutter)
+![Django](https://img.shields.io/badge/-black?style=flat&logo=django)
+![Express](https://img.shields.io/badge/-black?style=flat&logo=express)
 
 ## Reach Out
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)(https://www.linkedin.com/in/angel-jude-diones-921538328/)] 
+![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)(https://www.linkedin.com/in/angel-jude-diones-921538328/)]
 
 <!--
 **AJ4work/AJ4Work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
