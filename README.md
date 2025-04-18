@@ -2,7 +2,7 @@
 
 ## What I'm doing
 - 🔭 I’m currently working on my React Redux Refresher
-- 🌱 I’m currently messing around with .NET MAUI
+- 🌱 I’m currently messing around with AWS Cloud Computing
 
 ## Skills and Tools
 ### Programming Languages & Frameworks 
